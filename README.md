@@ -1,4 +1,4 @@
-# Front-End-CL-Project
+# Front End Code Louisville Project
 
 **Summary:** This is a website built for my friend's hair salon. It has multiple pages, a main javascript and CSS external sheet. The content primarily consists of placeholder info. 
 
